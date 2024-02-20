@@ -2,7 +2,7 @@
   <aside class="sidebar" :class="{ active: isOpen }">
     <div class="sidebar-info">
       <figure class="avatar-box">
-        <img src="/images/avatar.png" alt="Photo" width="80">
+        <img src="/images/avatar.png" alt="Kenji Loo" width="80">
       </figure>
 
       <div class="info-content">
