@@ -48,7 +48,7 @@ export default defineEventHandler(() => {
       image: null,
     },
     {
-      id: 5,
+      id: 6,
       title: 'SQL',
       description: {
         en: 'SQL is an essential for any Backend Developers out there. Having to deal with tons of databases daily, I am extremely proficient in writing SQL that are optimized.',
@@ -56,5 +56,14 @@ export default defineEventHandler(() => {
       icon: 'devicon:mysql',
       image: null,
     },
+    {
+      id: 7,
+      title: 'Solidity',
+      description: {
+        en: 'As a blockchain entusiast, I have put my hands on small Web3 projects that requires Solidity for Smart Contract Development.',
+      },
+      icon: 'devicon:solidity',
+      image: null,
+    }
   ]
 })

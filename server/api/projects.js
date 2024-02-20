@@ -4,28 +4,87 @@ export default defineEventHandler(() => {
   return [
     {
       id: 1,
-      title: 'It Never Ends ft. Julian Wilt',
+      title: 'Drim',
       category: {
-        id: 1, //see categories.js
+        id: 1,
         date: {
-          en: 'January 2023',
-          id_ID: 'Januari 2023',
+          en: 'November 2021',
         },
         title: {
-          en: 'Song',
-          id_ID: 'Lagu',
+          en: 'E Commerce Company Website',
         },
       },
       content: {
-        en: 'This song was made for gear testing and to honour the work of the great band, Bring Me The Horizon.',
-        id_ID: 'Lagu ini dibuat hanya untuk menguji peralatan musik kami dan untuk menghormati karya sebuah band hebat, Bring Me The Horizon.',
+        en: 'This website was made for Drim, who sells healthy drinks online.',
       },
       desc: {
           en: 'View Project',
-          id_ID: 'Lihat Proyek',
         },
-      image: '/images/ine.jpg',
-      url: 'https://ite.aghea.site',
+      image: '/images/drim.png',
+      url: 'https://www.drimhq.com',
     },
+    {
+      id: 2,
+      title: 'Helolokal',
+      category: {
+        id: 1,
+        date: {
+          en: 'June 2022',
+        },
+        title: {
+          en: 'Travelling Platform',
+        },
+      },
+      content: {
+        en: 'This website was made for Helolokal, a platform offering tourists a tour guide.',
+      },
+      desc: {
+          en: 'View Project',
+        },
+      image: '/images/helolokal.png',
+      url: 'https://www.helolokal.com',
+    },
+    {
+      id: 4,
+      title: 'Findall',
+      category: {
+        id: 1,
+        date: {
+          en: 'November 2023',
+        },
+        title: {
+          en: 'B2B E Commerce Website',
+        },
+      },
+      content: {
+        en: 'This website was made for Findall, who offers users an easy directory to find any businesses in Malaysia to source for products/services.',
+      },
+      desc: {
+          en: 'View Project',
+        },
+      image: '/images/findall.png',
+      url: 'https://www.b2b2cplatform.com',
+    },
+    // {
+    //   id: 4,
+    //   title: 'Havilah Capital',
+    //   category: {
+    //     id: 1,
+    //     date: {
+    //       en: 'November 2021',
+    //     },
+    //     title: {
+    //       en: 'Company Website',
+    //     },
+    //   },
+    //   content: {
+    //     en: 'This website was made for Havilah Capital, who offers consulting services to business owners in regards to financial and company growth.',
+    //   },
+    //   desc: {
+    //       en: 'View Project',
+    //     },
+    //   image: '/images/drim.png',
+    //   url: 'https://www.havilahcap.com',
+    // },
   ]
 })
