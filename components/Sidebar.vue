@@ -7,7 +7,7 @@
 
       <div class="info-content">
         <h1 class="name" title="Kenji Loo">
-          Kenji Loo
+          Kenji Loo Xuen Yi
         </h1>
         <p class="title text-center xl:block flex items-center justify-center gap-1">
           <span>Software Engineer</span>
