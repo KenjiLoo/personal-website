@@ -100,7 +100,7 @@ function closeItem() {
                 <ion-icon name="eye-outline" />
               </div>
 
-              <img :src="project.image" :alt="project.title" loading="lazy">
+              <img :src="project.image" :alt="project.title">
             </figure>
 
             <h3 class="project-title">{{ project.title }}</h3>
