@@ -11,28 +11,8 @@ onMounted(() => {
 
 const { locale } = useI18n({ useScope: 'global' })
 
-/* Testimonials */
-const { data: testimonials } = await useFetch('/api/testimonials')
-
-const testimonialItem = ref({})
-const activeModal = ref(false)
-const activeOverlay = ref(false)
-
-function showTestimonial(id) {
-  testimonialItem.value = testimonials.value.find(item => item.id === id)
-  activeModal.value = true
-  activeOverlay.value = true
-}
-
-function closeTestimonaial() {
-  testimonialItem.value = {}
-  activeModal.value = false
-  activeOverlay.value = false
-}
-/* Testimonials */
-
 /* Services */
-const { data: services } = await useFetch('/api/services')
+const { data: skills } = await useFetch('/api/skills')
 
 /* Services */
 const { data: about } = await useFetch('/api/about')
@@ -55,9 +35,8 @@ const { data: about } = await useFetch('/api/about')
     <section class="service">
       <br />
       <ul class="service-list">
-        <ServiceItem v-for="service in services" :key="service.id" :service="service" />
+        <Skills v-for="skill in skills" :key="skill.id" :skill="skill" />
       </ul>
     </section>
-
   </article>
 </template>
