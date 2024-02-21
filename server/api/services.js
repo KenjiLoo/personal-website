@@ -42,7 +42,7 @@ export default defineEventHandler(() => {
       id: 5,
       title: 'Python',
       description: {
-        en: 'As my first programming language that I leartn, Python has been my go-to when I attempt Data Structures and Algorithms questions. Many ML related projects that I have done are based on Python as well.',
+        en: 'As my first programming language that I learnt, Python has been my go-to when I attempt Data Structures and Algorithms questions. Many ML related projects that I have done are based on Python as well.',
       },
       icon: 'devicon:python',
       image: null,
