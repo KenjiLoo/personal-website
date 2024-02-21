@@ -74,9 +74,7 @@
           <NuxtLink to="mailto:kenjilooxy@gmail.com" class="social-link" target="_blank">
             <ion-icon name="mail-outline" /> <span class="timeline-text"> kenjilooxy@gmail.com </span>
           </NuxtLink>
-
-          <div class="separator" />
-
+          <br>
           <NuxtLink to="https://wa.link/te30nb" class="social-link" target="_blank">
             <ion-icon name="call-outline" /> <span class="timeline-text"> +60192883322 </span>
           </NuxtLink>

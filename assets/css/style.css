@@ -322,7 +322,7 @@ main {
   transition: var(--transition-2);
 }
 
-.sidebar.active { max-height: 405px; }
+.sidebar.active { max-height: 455px; }
 
 .sidebar-info {
   position: relative;
@@ -1254,8 +1254,6 @@ textarea.contact::-webkit-resizer { display: none; }
    */
 
   .clients-item { min-width: calc(33.33% - 10px); }
-
-
 
   /**
    * #PORTFOLIO, BLOG 
