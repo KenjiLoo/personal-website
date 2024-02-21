@@ -52,10 +52,10 @@ useHead({
           <p class="timeline-text">
             - Use Wordpress, PHP, Google Sites, and other Web Development tools to build E-Commerce, Booking, and service websites.<br>
             Portfolio: <br>
-            <NuxtLink to="http://www.drimhq.com" class="social-link" target="_blank">- www.drimhq.com (E Commerce)</NuxtLink>
-            <NuxtLink to="" class="social-link" target="_blank">- www.havilahcap.com (Service website)</NuxtLink>
-            <NuxtLink to="http://www.b2b2cplatform.com" class="social-link" target="_blank">- www.b2b2cplatform.com (E Commerce)</NuxtLink>
-            <NuxtLink to="http://www.helolokal.com" class="social-link" target="_blank">- www.helolokal.com (Booking website)</NuxtLink>
+            <NuxtLink to="http://www.drimhq.com" class="italic text-slate-400" target="_blank">- www.drimhq.com (E Commerce)</NuxtLink>
+            <NuxtLink to="" class="italic text-slate-400" target="_blank">- www.havilahcap.com (Service website)</NuxtLink>
+            <NuxtLink to="http://www.b2b2cplatform.com" class="italic text-slate-400" target="_blank">- www.b2b2cplatform.com (E Commerce)</NuxtLink>
+            <NuxtLink to="http://www.helolokal.com" class="italic text-slate-400" target="_blank">- www.helolokal.com (Booking website)</NuxtLink>
           </p>
         </li>
 
