@@ -334,7 +334,7 @@ main {
 
 .avatar-box {
   background: var(--bg-gradient-onyx);
-  border-radius: 20px;
+  border-radius: ;
 }
 
 .info-content .name {
@@ -386,6 +386,10 @@ main {
 .info_more-btn:focus::before { background: var(--bg-gradient-yellow-2); }
 
 .info_more-btn span { display: none; }
+
+.info_more-btn::after {
+  transform: rotate(180deg);
+}
 
 .sidebar-info_more {
   opacity: 0;
@@ -1349,7 +1353,7 @@ textarea.contact::-webkit-resizer { display: none; }
 
   .sidebar-info { gap: 25px; }
 
-  .avatar-box { border-radius: 30px; }
+  .avatar-box { border-radius: 50%; }
 
   .avatar-box img { width: 120px; }
 
