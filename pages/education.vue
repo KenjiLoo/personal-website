@@ -51,7 +51,8 @@ useHead({
             - School Salutatorian <br>
             - 2 times Bronze in Interschool Basketball Tournaments <br>
             - Silver in Interschool Captainball Tournaments <br> 
-            - 2 times Gold in the school's talent show in group vocals
+            - 2 times Gold in the school's talent show in group vocals <br>
+            - 2 times Gold in the school's talent show in group instrumentals
           </p>
         </li>
       </ol>
