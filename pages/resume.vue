@@ -82,7 +82,7 @@ useHead({
           <h4 class="h4 timeline-item-title">
             Markt.inc Agency
           </h4>
-          <span>From Oct 2021 — Until 2022</span>
+          <span>From Oct 2021 — Until Jan 2022</span>
           <p class="timeline-item-desc">
             Jakarata, Indonesia (Remote)
           </p>
@@ -103,7 +103,7 @@ useHead({
           <h4 class="h4 timeline-item-title">
             Green Packet (kipleX)
           </h4>
-          <span>From July 2023 — Until Present</span>
+          <span>From July 2021 — Until Sep 2021</span>
           <p class="timeline-item-desc">
             Kuala Lumpur, Malaysia (remote)
           </p>

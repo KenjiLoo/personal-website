@@ -18,16 +18,16 @@
       </li>
 
       <li class="navbar-item">
+        <NuxtLink to="/education" class="navbar-link">
+          {{ $t('pageTitles.education') }}
+        </NuxtLink>
+      </li>
+
+      <li class="navbar-item">
         <NuxtLink to="/portfolio" class="navbar-link">
           {{ $t('pageTitles.portfolio') }}
         </NuxtLink>
       </li>
-
-      <!-- <li class="navbar-item">
-        <NuxtLink to="/blog" class="navbar-link">
-          {{ $t('pageTitles.blog') }}
-        </NuxtLink>
-      </li> -->
 
       <li class="navbar-item">
         <NuxtLink to="/github" class="navbar-link">
