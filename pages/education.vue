@@ -26,7 +26,8 @@ useHead({
           <p class="timeline-text">
             About my university: 
             <NuxtLink to="https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Computer-Science-and-Artificial-Intelligence-with-Year-in-Industry-BSc-Hons-U6UCMPAIY.html" class="italic text-slate-400" target="_blank">University of Nottingham: BSc Computer Science with Artificial Intelligence</NuxtLink>
-            Some achievements during my academic career: <br>
+            <br>
+            <span class="timeline-item-title h4">Some achievements during my academic career:</span>
             - Foundation in Science Student Representative <br> 
             - Directed a Christmas Musical <br>
             - Finished 3 internships in Front-end, Back-end, and Web3 Development respectively<br>
@@ -43,7 +44,8 @@ useHead({
             High School
           </p>
           <p class="timeline-text">
-            Some achievements during my academic career: <br>
+            <br>
+            <span class="timeline-item-title h4">Some achievements during my academic career:</span>
             - Head Prefect <br> 
             - Head of our school's musical ensemble <br>
             - School Salutatorian <br>
