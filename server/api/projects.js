@@ -63,7 +63,7 @@ export default defineEventHandler(() => {
           en: 'View Project',
         },
       image: '/images/findall.png',
-      url: 'https://www.b2b2cplatform.com',
+      url: 'https://www.findall.com.my',
     },
     // {
     //   id: 4,
