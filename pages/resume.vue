@@ -27,14 +27,13 @@ useHead({
             Software Engineer
           </p>
           <p class="timeline-text">
-            - Build effective REST APIs, Webhooks, WebSockets with Laravel <br>
-            - Test APIs with Postman <br>
-            - Build WebApps with Vue.js <br>
-            - Adheres to coding standards in PHP (PSR) and TypeScript (ES6) to reduce development time and ensure maintainability <br>
-            - Involves in R&D to build effective boilerplates that reduces development time by 50% <br>
-            - Convert legacy code to current standards <br>
-            - Writes code that puts a smile on my manager's face <br>
-            - Advocate for clean and effective code <br>
+            - Designed and Built multiple projects with Laravel and Vue.js with a microservices approach in system architecture. <br>
+            - Co-led the development of a boilerplate with Laravel to reduce development time by 60% department wide. <br>
+            - Responsible for training and guidance for juniors in the Research and Development Department. <br>
+            - Responsible for code-reviews, ensuring coding standards PSR and ES06 are upheld and code is optimized. <br>
+            - In charge of delegation of tasks to juniors, handbook and documentation writing.<br>
+            - Researched and Developed multiple features for projects to enhance both API Performance and Frontend User Experience. <br>
+            - Developed projects using Agile to ensure efficiency and accuracy during project development. <br>
           </p>
         </li>
         
