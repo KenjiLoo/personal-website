@@ -27,13 +27,16 @@ useHead({
             Software Engineer
           </p>
           <p class="timeline-text">
-            - Designed and Built multiple projects with Laravel and Vue.js with a microservices approach in system architecture. <br>
-            - Co-led the development of a boilerplate with Laravel to reduce development time by 60% department wide. <br>
-            - Responsible for training and guidance for juniors in the Research and Development Department. <br>
-            - Responsible for code-reviews, ensuring coding standards PSR and ES06 are upheld and code is optimized. <br>
-            - In charge of delegation of tasks to juniors, handbook and documentation writing.<br>
-            - Researched and Developed multiple features for projects to enhance both API Performance and Frontend User Experience. <br>
-            - Developed projects using Agile to ensure efficiency and accuracy during project development. <br>
+            - Designed & Built 2 large-scale projects to production & 3 internal projects within 1 year with Laravel and Vue.js <br>
+            - Expertise in building RESTful APIs with Laravel and Postman and designing effective Database Schemas and Software Architecture.<br>
+            - Microservices approach in system architecture is used to design and build apps. <br>
+            - Reduced development time by 60% by co-leading an API Boilerplate development with Laravel.<br>
+            - Responsible for writing 2 user handbooks and documentation.<br>
+            - Optimized APIs with server-side caching and writing code with the best time complexity.<br>
+            - Responsible for training and guidance for newcomers in the Research and Development Department.<br>
+            - Responsible for code-reviews, ensuring coding standards PSR and ES06 are upheld and code is clean & optimized.<br>
+            - Developed projects using Agile to ensure efficiency and accuracy during project development.<br>
+            - Version control with Git & Sourcetree, with Bitbucket and Trello to ensure operational smoothness.<br>
           </p>
         </li>
         
